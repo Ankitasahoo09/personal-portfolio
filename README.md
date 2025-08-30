@@ -1,6 +1,3 @@
-Here’s a clean and professional **README.md** template for your **Personal Portfolio** project. You can use this directly in your GitHub repo:
-
-```markdown
 # 🌐 Personal Portfolio Website  
 
 A modern and responsive personal portfolio website showcasing my projects, skills, and achievements as a **Frontend Developer**.  
